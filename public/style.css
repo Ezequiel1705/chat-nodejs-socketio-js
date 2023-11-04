@@ -1,0 +1,26 @@
+h1 {
+    color: red;
+}
+
+label {
+    font-weight: bold;
+    font-style: italic;
+}
+
+.jumbotron {
+    min-height: 50vh;
+    /* width: 100%; */
+    /* background: #AEC3AE; */
+}
+.imagen-producto{
+    border-radius: 5px;
+    height: 30vh;
+    width: 30vh;
+}
+
+.contenedor{
+    font-size: 20px;
+    border-radius: 2px;
+    background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='4' height='4' viewBox='0 0 4 4'%3E%3Cpath fill='%2300ff1e' fill-opacity='0.4' d='M1 3h1v1H1V3zm2-2h1v1H3V1z'%3E%3C/path%3E%3C/svg%3E");
+}
+
